@@ -1,4 +1,4 @@
-baseurl = "https://devcows.github.io/sdenergyseryservices/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://https://frosty-archimedes-1f0ea0.netlify.app/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "SDEnergyServices"
 theme = "hugo-universal-theme-master"
 themesDir = "themes/"
