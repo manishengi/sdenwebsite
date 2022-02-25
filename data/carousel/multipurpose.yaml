@@ -1,0 +1,20 @@
+weight: 1
+title: "Oil & Gas Field Services"
+description:
+  <table class="slide_3 banner-image" style="width:560px;">
+  <tbody><tr>
+  <td style="border-bottom:8px solid#b3b3b3; width:60%"></td>
+  <td style="border-bottom:8px solid#d40000; width:40%"></td>
+  </tr>
+  </tbody></table>
+                <ul class="list-style-none">
+        <br/>
+        <br/>
+               <h3 style="color:black">Mud Disposal Services</h3>
+
+  <h3 style="color:black">GPCB related Services</h3>
+
+  <h3 style="color:black">Re-cleaning of field-side</h3>
+
+  </ul>
+image: "img/carousel/oil-service.png"

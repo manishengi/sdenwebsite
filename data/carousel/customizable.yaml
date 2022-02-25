@@ -1,0 +1,14 @@
+weight: 4
+title: "Data Analytics"
+description: <table class="slide_3 banner-image" style="width:560px;">
+  <tbody><tr>
+  <td style="border-bottom:8px solid#b3b3b3; width:60%"></td>
+  <td style="border-bottom:8px solid#d40000; width:40%"></td>
+  </tr>
+  </tbody></table>
+  <ul class="list-style-none">
+  <br/>
+  <br/>
+  <h3 style="color:black">Combine the power of Cloud Computing with Data analytics to unlease the new horizon</h3>
+  </ul>
+image: "img/carousel/analytics.jpg"
